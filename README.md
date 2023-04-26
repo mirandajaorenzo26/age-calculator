@@ -1,34 +1,66 @@
-# Age Calculator App
-This is a simple age calculator app built using React and Vite. The app allows users to enter their birthdate and calculates their age in years, months, and days. This application is a challenge by [Frontend Mentor](https://www.frontendmentor.io/) and also my first React Application.
+# Frontend Mentor - Age calculator app solution
 
-## Getting Started
-To get started with this app, simply clone the repository to your local machine and install the dependencies using npm:
+This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-> git clone [https://github.com/mirandajaorenzo26/age-calculator.git](https://github.com/mirandajaorenzo26/age-calculator.git)
+This is a simple age calculator app built using React and Vite. The app allows users to enter their birthdate and calculates their age in years, months, and days. This application is a challenge by [Frontend Mentor](https://www.frontendmentor.io/) and also my first ever React Application.
 
-> cd age-calculator
+## Table of contents
 
-> npm install
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-Once the dependencies are installed, you can start the development server using the following command:
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
+## Overview
 
-> npm run dev
+### The challenge
 
-This will start the development server and open the app in your default browser. Any changes you make to the code will be automatically reloaded in the browser.
+Users should be able to:
 
-## Usage
-To use the app, simply enter your birthdate in the format YYYY-MM-DD and click the circle purple button. The app will then calculate your age in years, months, and days and display the result on the page.
+- View an age in years, months, and days after submitting a valid date through the form
+- Receive validation errors if:
+  - Any field is empty when the form is submitted
+  - The day number is not between 1-31
+  - The month number is not between 1-12
+  - The year is in the future
+  - The date is invalid e.g. 31/04/1991 (there are 30 days in April)
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+- **Bonus**: See the age numbers animate to their final number when the form is submitted
 
-## Building for Production
-To build the app for production, run the following command:
+### Screenshot
 
->npm run build
+![](./screenshots/desktop-preview.png)
+![](./screenshots/desktop-preview-with-data.png)
+![](./screenshots/mobile-preview.png)
+![](./screenshots/mobile-preview-with-data.png)
 
-This will create a production-ready build of the app in the dist directory.
+### Links
 
-## Contributing
-Contributions are welcome! If you find a bug or would like to add a new feature, please open an issue or submit a pull request.
+- Solution URL: [https://github.com/mirandajaorenzo26/age-calculator](https://github.com/mirandajaorenzo26/age-calculator)
+- Live Site URL: [https://mirandajaorenzo26.github.io/age-calculator/](https://mirandajaorenzo26.github.io/age-calculator/)
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## My process
+
+### Built with
+
+- HTML5 markup
+- CSS custom properties
+- Flexbox
+- [React](https://reactjs.org/) - JS library
+
+### What I learned
+
+I've learned about the basics of React.
+
+## Author
+
+- Frontend Mentor - [@mirandajaorenzo](https://www.frontendmentor.io/profile/mirandajaorenzo26)
+- GitHub - [@mirandajaorenzo26](https://github.com/mirandajaorenzo26)
+- LinkedIn - [Jao Renzo Miranda](https://www.linkedin.com/in/jao-renzo-miranda/)
