@@ -200,7 +200,7 @@ small {
 }
 
 .attribution {
-  font-size: clamp(0.5rem, 1.5vh, 1rem);
+  font-size: clamp(0.5rem, 1.2vh, 1rem);
   text-align: center;
   font-weight: bold;
 }
