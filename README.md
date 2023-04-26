@@ -9,6 +9,7 @@ To get started with this app, simply clone the repository to your local machine 
 > cd age-calculator
 
 > npm install
+
 Once the dependencies are installed, you can start the development server using the following command:
 
 
@@ -27,9 +28,7 @@ To build the app for production, run the following command:
 This will create a production-ready build of the app in the dist directory.
 
 ## Contributing
-
 Contributions are welcome! If you find a bug or would like to add a new feature, please open an issue or submit a pull request.
 
-##License
-
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
