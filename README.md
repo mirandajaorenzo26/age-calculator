@@ -1,5 +1,5 @@
 # Age Calculator App
-This is a simple age calculator app built using React and Vite. The app allows users to enter their birthdate and calculates their age in years, months, and days. This is a challenge by [Frontend Mentor](https://www.frontendmentor.io/).
+This is a simple age calculator app built using React and Vite. The app allows users to enter their birthdate and calculates their age in years, months, and days. This application is a challenge by [Frontend Mentor](https://www.frontendmentor.io/) and also my first React Application.
 
 ## Getting Started
 To get started with this app, simply clone the repository to your local machine and install the dependencies using npm:
