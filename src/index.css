@@ -176,7 +176,7 @@ small {
   opacity: 1;
 }
 
-@media (width < 480px) {
+@media (width < 500px) {
   .form-group {
     display: flex;
     gap: 1.5em;
