@@ -36,10 +36,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/desktop-preview.png)
-![](./screenshots/desktop-preview-with-data.png)
-![](./screenshots/mobile-preview.png)
-![](./screenshots/mobile-preview-with-data.png)
+![Desktop Preview](./screenshots/desktop-preview.png?raw=true 'Desktop Preview')
+![Desktop Preview with data](./screenshots/desktop-preview-with-data.png?raw=true 'Desktop Preview with data')
+![Mobile Preview](./screenshots/mobile-preview.png?raw=true 'Mobile Preview')
+![Mobile Preview with data](./screenshots/mobile-preview-with-data.png?raw=true 'Mobile Preview with data')
 
 ### Links
 
