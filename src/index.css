@@ -86,7 +86,7 @@ small {
   justify-content: space-evenly;
   background-color: var(--White);
   border-radius: 2rem 2rem min(26vw, 30%) 2rem;
-  width: max(350px, 40vw + 1rem);
+  width: min(700px, 90%);
 }
 
 .birthday-form {
@@ -142,7 +142,7 @@ small {
 }
 
 .calculated-age {
-  font-size: clamp(4rem, 9vw, 5rem);
+  font-size: min(6vw + 2vh, 5rem);
   font-style: italic;
   font-weight: 800;
 }
@@ -176,7 +176,7 @@ small {
   opacity: 1;
 }
 
-@media (width < 376px) {
+@media (width < 480px) {
   .form-group {
     display: flex;
     gap: 1.5em;
