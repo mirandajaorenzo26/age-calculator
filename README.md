@@ -13,6 +13,7 @@ Once the dependencies are installed, you can start the development server using 
 
 
 > npm run dev
+
 This will start the development server and open the app in your default browser. Any changes you make to the code will be automatically reloaded in the browser.
 
 ## Usage
@@ -20,7 +21,9 @@ To use the app, simply enter your birthdate in the format YYYY-MM-DD and click t
 
 ## Building for Production
 To build the app for production, run the following command:
+
 >npm run build
+
 This will create a production-ready build of the app in the dist directory.
 
 ## Contributing
