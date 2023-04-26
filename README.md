@@ -36,14 +36,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Preview](./screenshots/desktop-preview.png?raw=true 'Desktop Preview')
-![Desktop Preview with data](./screenshots/desktop-preview-with-data.png?raw=true 'Desktop Preview with data')
-![Mobile Preview](./screenshots/mobile-preview.png?raw=true 'Mobile Preview')
-![Mobile Preview with data](./screenshots/mobile-preview-with-data.png?raw=true 'Mobile Preview with data')
+![Desktop Preview](/screenshots/desktop-preview.png?raw=true 'Desktop Preview')
+![Desktop Preview with data](/screenshots/desktop-preview-with-data.png?raw=true 'Desktop Preview with data')
+![Mobile Preview](/screenshots/mobile-preview.png?raw=true 'Mobile Preview')
+![Mobile Preview with data](/screenshots/mobile-preview-with-data.png?raw=true 'Mobile Preview with data')
 
 ### Links
 
-- Solution URL: [https://github.com/mirandajaorenzo26/age-calculator](https://github.com/mirandajaorenzo26/age-calculator)
+- Solution URL: [https://www.frontendmentor.io/solutions/age-calculator-using-react-uc97MJN04G](https://www.frontendmentor.io/solutions/age-calculator-using-react-uc97MJN04G)
 - Live Site URL: [https://mirandajaorenzo26.github.io/age-calculator/](https://mirandajaorenzo26.github.io/age-calculator/)
 
 ## My process
