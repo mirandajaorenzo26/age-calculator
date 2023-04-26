@@ -5,7 +5,9 @@ This is a simple age calculator app built using React and Vite. The app allows u
 To get started with this app, simply clone the repository to your local machine and install the dependencies using npm:
 
 > git clone [https://github.com/mirandajaorenzo26/age-calculator.git](https://github.com/mirandajaorenzo26/age-calculator.git)
+
 > cd age-calculator
+
 > npm install
 Once the dependencies are installed, you can start the development server using the following command:
 
