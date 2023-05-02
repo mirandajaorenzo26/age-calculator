@@ -15,9 +15,7 @@ const calculateAge = (birthday, currentDate) => {
     if (monthDiff < 0 || (monthDiff === 0 && dayDiff < 0)) {
       years--;
       months += 12;
-      alert('Maybe hindi pa nangyayari yung month');
       if (dayDiff < 0) {
-        alert(' Hindi pa nangyari na yung day');
         const daysInLastMonth = new Date(
           currentDate.getFullYear(),
           currentDate.getMonth(),
@@ -27,9 +25,7 @@ const calculateAge = (birthday, currentDate) => {
         months--;
       }
     } else {
-      alert('Nangyari na yung month');
       if (dayDiff < 0) {
-        alert('Nangyari na din yung day');
         const daysInLastMonth = new Date(
           currentDate.getFullYear(),
           currentDate.getMonth(),
