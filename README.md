@@ -15,7 +15,6 @@ This is a simple age calculator app built using React and Vite. The app allows u
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
